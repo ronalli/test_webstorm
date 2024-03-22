@@ -1,7 +1,14 @@
 const a = 'd';
 console.log(a);
 
-const user = {
+interface IUser {
+    name: string,
+    lastname: string,
+    age: number
+}
+
+
+const user: IUser = {
     name: 'Bob',
     lastname: 'Flex',
     age: 25
