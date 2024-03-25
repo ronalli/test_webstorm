@@ -23,4 +23,4 @@ const infoBooks: Info = {
     num: 45
 }
 
-console.log(print)
+console.log(infoBooks)
