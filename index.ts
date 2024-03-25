@@ -28,3 +28,8 @@ console.log(infoBooks)
 console.log('auth')
 
 const token = 'rr324wd1f3d5sf';
+
+
+console.log('validation')
+
+const lengthText = 'length min 6 symbol'
