@@ -24,3 +24,7 @@ const infoBooks: Info = {
 }
 
 console.log(infoBooks)
+
+console.log('auth')
+
+const token = 'rr324wd1f3d5sf';
