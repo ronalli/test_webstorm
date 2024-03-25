@@ -24,3 +24,7 @@ const infoBooks: Info = {
 }
 
 console.log(infoBooks)
+
+console.log('validation')
+
+const lengthText = 'length min 6 symbol'
