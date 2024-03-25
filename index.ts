@@ -1,6 +1,3 @@
-const a = 'd';
-console.log(a);
-
 interface IUser {
     name: string,
     lastname: string,
@@ -12,8 +9,6 @@ const user: IUser = {
     lastname: 'Flex',
     age: 25
 }
-console.log(user);
-
 for(const [key, value] of Object.entries(user)) {
-    console.log(key, value)
+    console.log(`${key}: ${value}`)
 }
